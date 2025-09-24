@@ -123,13 +123,27 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment01.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment04.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment06.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment08.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment09.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment10.c" />
-    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment12.c" />
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment01.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment04.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment06.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment08.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment09.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment10.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Documents\mj631\ch07 Assignment12.c">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
