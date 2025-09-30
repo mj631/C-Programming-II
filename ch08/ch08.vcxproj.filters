@@ -21,35 +21,5 @@
     <ClCompile Include="C Programming02.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="C Programming03.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming04.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming05.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming06.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming07.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming08.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming09.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming11.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming12.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="C Programming15.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
