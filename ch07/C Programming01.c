@@ -1,3 +1,5 @@
+//예제 7-1 : 배열의 바이트 크기와 크기 구하기
+
 #include <stdio.h>
 
 int main()

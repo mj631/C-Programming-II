@@ -1,3 +1,5 @@
+//예제 7-3 : 가장 기본적인 배열의 초기화
+
 #include <stdio.h>
 
 int main(void)

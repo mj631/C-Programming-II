@@ -1,3 +1,5 @@
+//예제 7-2 : 매크로 상수로 배열의 키기를 지정하는 경우 
+
 #include <stdio.h>
 
 #define ARR_SIZE 5
