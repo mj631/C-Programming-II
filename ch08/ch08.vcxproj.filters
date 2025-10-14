@@ -27,5 +27,11 @@
     <ClCompile Include="C programming07.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="C programming11.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="C programming12.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
